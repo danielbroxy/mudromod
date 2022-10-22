@@ -7,8 +7,17 @@ label mudromod:
     $ save_name = ('Мудромод. Пролог')
     scene bg sloboda
     with dissolve
-    show tih normal with dissolve
+    show tih far with dissolve
+    show un normal pioneer far at fright with dissolve
+    show dv normal pioneer far at fleft with dissolve
+    "У каждой истории есть начало и конец. Но лучше бы блять эта история никогда не начиналась..."
+    show tih with dissolve
+    show un normal dress at fright with dissolve
+    show dv normal pioneer2 at fleft with dissolve
     tih "Хорошо сосёт, нежно... Очень жадна до члена"
+    show tih close with dissolve
+    show un normal swim close at fright with dissolve
+    show dv normal swim close at fleft with dissolve
     "Судя по всему, эта слобода – единственое место, где могли быть люди, поэтому я решил пойти туда и уже почти дошёл до ворот, как..."
     "Оттуда выглянула дедушка..."
     menu:
