@@ -5,12 +5,12 @@ init python:
 
 label mudromod:
     $ save_name = ('Мудромод. Пролог')
-    tih "Хорошо сосёт, нежно... Очень жадна до члена"
     scene bg sloboda
     with dissolve
+    show tih normal with dissolve
+    tih "Хорошо сосёт, нежно... Очень жадна до члена"
     "Судя по всему, эта слобода – единственое место, где могли быть люди, поэтому я решил пойти туда и уже почти дошёл до ворот, как..."
     "Оттуда выглянула дедушка..."
-    show tih normal at right with dissolve
     menu:
         "ТРАХНУТЬ":
             me "ТРАХ ПРОШЕЛ УСПЕШНО"
